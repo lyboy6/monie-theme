@@ -1,0 +1,28 @@
+{
+  "name": "monie-theme",
+  "displayName": "monie-theme",
+  "description": "monie-theme 主题",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "lyboy",
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monie Light",
+        "uiTheme": "vs",
+        "path": "./themes/monie-theme-light-color-theme.json"
+      },
+      {
+        "label": "Monie Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monie-theme-dark-color-theme.json"
+      }
+    ]
+  }
+}
