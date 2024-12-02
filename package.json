@@ -2,9 +2,10 @@
   "name": "monie-theme",
   "displayName": "monie-theme",
   "description": "monie-theme 主题",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.95.0"
+    "vscode": "^1.70.0",
+    "cursor": "^2.1.0"
   },
   "categories": [
     "Themes"

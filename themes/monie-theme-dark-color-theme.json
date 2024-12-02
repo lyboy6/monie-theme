@@ -73,24 +73,24 @@
     "editorLineNumber.foreground": "#707a8c66",
     "editorLineNumber.activeForeground": "#707a8ccc",
     "editorCursor.foreground": "#ffcc66",
-    "editor.selectionBackground": "#2a3546",
-    "editor.inactiveSelectionBackground": "#262f3e",
-    "editor.selectionHighlightBackground": "#262f3e",
+    "editor.selectionBackground": "#2a354680",
+    "editor.inactiveSelectionBackground": "#262f3e80",
+    "editor.selectionHighlightBackground": "#262f3e80",
     "editor.selectionHighlightBorder": "#313e52",
-    "editor.wordHighlightBackground": "#262f3e",
+    "editor.wordHighlightBackground": "#262f3e80",
     "editor.wordHighlightStrongBackground": "#ffcc6633",
     "editor.findMatchBackground": "#ffcc660d",
     "editor.findMatchBorder": "#ffcc66",
     "editor.findMatchHighlightBackground": "#ffcc660d",
     "editor.findMatchHighlightBorder": "#ffcc6659",
-    "editor.findRangeHighlightBackground": "#262f3e",
+    "editor.findRangeHighlightBackground": "#191e2a80",
     "editor.findRangeHighlightBorder": "#1f243000",
     "editor.lineHighlightBackground": "#191e2a",
     "editorLink.activeForeground": "#ffcc66",
-    "editor.rangeHighlightBackground": "#191e2a",
+    "editor.rangeHighlightBackground": "#191e2a80",
     "editorWhitespace.foreground": "#707a8c66",
-    "editorIndentGuide.background": "#707a8c4d",
-    "editorIndentGuide.activeBackground": "#707a8cb3",
+    "editorIndentGuide.background1": "#707a8c4d",
+    "editorIndentGuide.activeBackground1": "#707a8cb3",
     "editorRuler.foreground": "#707a8c4d",
     "editorCodeLens.foreground": "#5c6773",
     "editorBracketMatch.background": "#707a8c4d",
@@ -802,14 +802,14 @@
       }
     },
     {
-      "name": "TS 泛型の右尖括号",
+      "name": "TS 泛型右尖括号",
       "scope": "punctuation.definition.typeparameters.end",
       "settings": {
         "foreground": "#FFC654"
       }
     },
     {
-      "name": "TS 泛型の左尖括号",
+      "name": "TS 泛型左尖括号",
       "scope": "punctuation.definition.typeparameters.begin",
       "settings": {
         "foreground": "#FFC654"
