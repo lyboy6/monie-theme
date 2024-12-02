@@ -2,7 +2,8 @@
   "name": "monie-theme",
   "displayName": "monie-theme",
   "description": "monie-theme 主题",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "publisher": "lyboy",
   "engines": {
     "vscode": "^1.70.0",
     "cursor": "^2.1.0"
@@ -10,7 +11,15 @@
   "categories": [
     "Themes"
   ],
-  "publisher": "lyboy",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/lyboy6//monie-theme/issues"
+  },
+  "homepage": "https://github.com/lyboy6/monie-theme/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyboy6/monie-theme.git"
+  },
   "icon": "icon.png",
   "contributes": {
     "themes": [
